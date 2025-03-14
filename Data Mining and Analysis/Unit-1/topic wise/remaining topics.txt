@@ -1,0 +1,3 @@
+Advantages and Disadvantages of Data Mining
+What Kinds of Patterns Can Be Mined
+Data Objects and Attribute Types
