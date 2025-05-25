@@ -11,7 +11,7 @@ This repository contains a collection of study materials and notes for Semester 
 4. Access the notes through the organized folder structure
 
 ### Option 2: Clone the Repository
-```git clone https://github.com/yourusername/semester-5-notes.git```
+```git clone https://github.com/gauransh415/ALL-SEM-VI-NOTES.git```
 
 ## Content
 - Each subject has its own directory
